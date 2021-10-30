@@ -1,1 +1,1 @@
-Here I publuc tutorials and how-to which i create sometimes in my work.
+Here I publuc tutorials and how-tos which I create sometimes in my work.
