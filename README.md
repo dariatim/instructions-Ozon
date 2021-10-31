@@ -1,1 +1,1 @@
-Here I publuc tutorials which I create in my work.
+Here I publuc tutorials in Russian which I create in my work.
