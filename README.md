@@ -1,1 +1,1 @@
-Here I publuc tutorials and instructions in Russian which I create in my work and courses.
+Here I public instructions in Russian created in my work and courses.
