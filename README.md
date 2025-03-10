@@ -1,1 +1,1 @@
-In section Wiki I public instructions in Russian created in my work and courses.
+Here I public my instruction for technical writer vacancy.
