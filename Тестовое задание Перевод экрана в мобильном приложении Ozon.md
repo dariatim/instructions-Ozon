@@ -14,7 +14,8 @@
 
 If you want to view or buy again the product you bought before:
 
-1. Click your avatar in the lower right corner and select **Purchased** **products.**  
+1. Click your avatar in the lower right corner and select **Purchased** **products.**
+![01.jpg](https://github.com/dariatim/Instructions/blob/7efb59f9ebfa9cdf4a88161d3f9a89db882b2753/01.jpg)  
 2. Select the product or use search and add it to the shopping cart.
 
 The latest product is purchased, the higher it is on the list.
