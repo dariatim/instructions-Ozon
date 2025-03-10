@@ -20,14 +20,13 @@ The latest product is purchased, the higher it is on the list.
 If you want to add product bought before to favorites, click ♡ on the product card.  
 If the product is out of stock, you can search for similar ones clicking **Similar** or choose suggested similar product.  
 ![04.jpg](https://github.com/dariatim/Instructions/blob/0c14b5fdeceaa10b8193245c7468079eadaeb60b/04.jpg) 
-You can sort products and filter them by category.
-   
+You can sort products and filter them by category.  
 Sort product by:
 * new,  
 * old,  
 * lower price,  
 * higher price,  
-* promotional discount.
+* discount amount.
      
 ![03.jpg](https://github.com/dariatim/Instructions/blob/6e43c95c3492b68fe8465b50a90f1f7cd5f62678/03.jpg)
    
