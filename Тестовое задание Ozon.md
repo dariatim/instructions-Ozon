@@ -1,0 +1,115 @@
+# Задание Обратная связь
+Комментарии к главной странице, т.к. сначала я захожу на эту страницу, а потом выбираю нужный блок.   
+Раздел для покупателей 
+В 1-м блоке **Мой заказ** описание читается как: Как сделать статус заказа, изменить статус заказа, отменить статус заказа, получить статус заказа (скорее, = узнать, но для это есть посмотреть).
+В чем разница между получить и посмотреть? Если я посмотрю статус заказа, то я посмотрю и получу информацию о его статусе. 
+Получить = выслать его на почту или в сообщении, push отправить.  
+
+Вариант: Как оформить, изменить, отменить заказ и посмотреть его статус
+
+Или: Оформление, изменение, отмена заказа, просмотр статуса заказа, т.к. в других блоках в описании используются существительные, то нужно, чтобы блоки были однородными.
+
+Убрать в блоках висячие предлоги и союзы.  
+![Главная страница_0.png](https://github.com/dariatim/Instructions/blob/d8e7856686f2e12f012b6e2dbc1d6f52facf23e7/%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F%20%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0_0.png)
+### Раздел для продавцов, поставщиков и о рекламной платформе ###
+Где-то используется *база знаний*, а где-то *справка*.
+База заний больше, чем справка. Справка — одна из сущностей. База заний может содержать множество сущностей: инструкции и другую информацию, справку.  
+Заголовок **Реклама** я бы поменяла на **Пользователям рекламной платформы**, т.к. в других заголовках используются наименования пользователей, кому адресованы документы: покупателям, продавцам, поставщикам, разработчикам.   
+То же самое с заголовком **Работа в Ozon**. Вариант: **Кандидатам на вакансии в Ozon**.  
+В блоке **Как стать курьером** я бы исправила заголовок на: **Курьерам**, т.к. есть похожие блоки **Водителям**, **Кандидатам на вакансии поддержки**.  
+
+Не пониманию разницы между курьером и водителем. Можно стать водителем, но не быть курьером?  
+
+Почему в блоке для курьеров в описании отдельно вынесены частые вопросы? Если перейти в блок, то эти частые вопросы больше подходят под требования или для подраздела **Как начать сотрудничество**. 
+## Разбор статьи [**Ошибки при оплате**](https://docs.ozon.ru/common/oplata/oshibka-pri-oplate/?country=RU)
+
+* Пункт *Нельзя подтвердить операцию по карте одноразовым паролем из СМС.* По какой причине нельзя подтвердить операцию, в настройках отключено получение СМС?    
+* Пункт *Банк установил запрет на оплату в интернете.* Это именно банк установил запрет или покупатель?  
+  Как вариант: *Установлен запрет на оплату картой в интернете.* Тогда можно ещё дать совет ниже в инструкции, как проверить есть ли запрет и снять его в приложении банка.
+* Пункт *Повторите попытку через 20 минут.* Сколько попыток можно сделать? Будет ли блокировка или запрет? Будет ли уведомление, например: *Не удается оплатить, повторите попытку через 20 минут*? И таймер с отсчётом времени?
+В подразделе **Постоплата** не указано время, в течение которого происходит списание денег. Что делать покупателю, если он оплачивает в пункте при выдаче, но уведомления о списании нет, или какая-то другая причина, по которой оплата не проходит?  
+Можно ли сейчас на территории РФ оплачивать Visa или Mastercard или картой, выпущенной зарубежом или зарубежного банка? Актуальные ли скрины карт?
+Можно ли использовать для оплаты СБП, а не карту?  
+![Ошибка при оплате_1.png](https://github.com/dariatim/Instructions/blob/1b58f6dc2b4337bfdf54173ec0fdc422095bdacb/%D0%9E%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%20%D0%BF%D1%80%D0%B8%20%D0%BE%D0%BF%D0%BB%D0%B0%D1%82%D0%B5_1.png)  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Задание Переводы
+
+Я выбрала раздел **Купленные товары** в мобильном приложении Ozon для Android версии 18.7.0.
+
+## Purchased products
+
+**Purchased products is a section in your personal account where you can:**
+
+* search products you bought before;  
+* view quantity of purchased products;  
+* view product cards you bought before;  
+* order again the products you bought before;  
+* add products bought before to favorites.
+If you want to view or buy again the product you bought before:
+1. Click your avatar in the lower right corner and select **Purchased** **products.**
+![01.jpg](https://github.com/dariatim/Instructions/blob/7efb59f9ebfa9cdf4a88161d3f9a89db882b2753/01.jpg)
+2. Select the product or use search and add it to the shopping cart.
+![02_01.jpg](https://github.com/dariatim/Instructions/blob/b2ae686284737679a08143c51dd0937d16d9884d/02_01.jpg)    
+The latest product is purchased, the higher it is on the list.  
+If you want to add product bought before to favorites, click ♡ on the product card.  
+If the product is out of stock, you can search for similar ones clicking **Similar** or choose suggested similar product.  
+![04.jpg](https://github.com/dariatim/Instructions/blob/0c14b5fdeceaa10b8193245c7468079eadaeb60b/04.jpg) 
+You can sort products and filter them by category.  
+Sort product by:
+* new,  
+* old,  
+* lower price,  
+* higher price,  
+* discount amount.
+     
+![03.jpg](https://github.com/dariatim/Instructions/blob/6e43c95c3492b68fe8465b50a90f1f7cd5f62678/03.jpg)
+   
+To find a relevant product, use the filter by category. Click the filter and select category of ordered products or products only in stock.
+
+![05.jpg](https://github.com/dariatim/Instructions/blob/c332767c9ed8e7c1d687f8944b9b4bf1432949e8/05.jpg)
+
+
+
+
+
+
+The price of the product may differ from the one you bought earlier: higher, lower or with promotional discount.
+
+Delivery date may be tomorrow, the next day or other day. 
+
