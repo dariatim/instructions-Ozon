@@ -36,7 +36,7 @@
 Нарисовала схему по инструкции [**Возврат товаров**](https://docs.ozon.ru/common/otmena-i-vozvrat-zakaza/kak-vernut-tovar/?country=RU). 
 Признаюсь, не знаю, как создавать такие схемы, и ранее не работала с этим.
 
-![Схема взаимодействия компонентов_Возврат товаров Ozon_scheme.png](https://github.com/dariatim/instructions-Ozon/blob/07b7956ed6b926a14dde02337248f2d7aecf5f24/%D0%A1%D1%85%D0%B5%D0%BC%D0%B0%20%D0%B2%D0%B7%D0%B0%D0%B8%D0%BC%D0%BE%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D1%8F%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%B5%D0%BD%D1%82%D0%BE%D0%B2_%D0%92%D0%BE%D0%B7%D0%B2%D1%80%D0%B0%D1%82%20%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%BE%D0%B2%20Ozon_scheme.png)
+![Схема взаимодействия компонентов_Возврат товаров Ozon_scheme.jpg](https://github.com/dariatim/instructions-Ozon/blob/6adc1867e65b4391a4af75ed016a0279ca36ede4/%D0%A1%D1%85%D0%B5%D0%BC%D0%B0%20%D0%B2%D0%B7%D0%B0%D0%B8%D0%BC%D0%BE%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D1%8F%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%B5%D0%BD%D1%82%D0%BE%D0%B2_%D0%92%D0%BE%D0%B7%D0%B2%D1%80%D0%B0%D1%82%20%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%BE%D0%B2%20Ozon_scheme.jpg)   
 
 
 # Задание Обратная связь
