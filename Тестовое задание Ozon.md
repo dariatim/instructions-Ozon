@@ -95,10 +95,10 @@
 **Purchased products is a section in your personal account where you can:**
 
 * search products you bought before;  
-* view quantity of purchased products;  
+* view quantity of purchased products you bought before;  
 * view product cards you bought before;  
 * order again the products you bought before;  
-* add products bought before to favorites.
+* add products you bought before to favorites.
   
 If you want to view or buy again the product you bought before:
 1. Click your avatar in the lower right corner and select **Purchased** **products.**
