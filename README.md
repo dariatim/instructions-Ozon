@@ -1,1 +1,1 @@
-Here I public my instruction for technical writer vacancy.
+Here I public my technical assessment for technical writer vacancy at Ozon.
