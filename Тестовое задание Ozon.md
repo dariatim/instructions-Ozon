@@ -54,6 +54,7 @@
 Убрать в блоках висячие предлоги и союзы. 
 
 ![Главная страница_0.png](https://github.com/dariatim/Instructions/blob/d8e7856686f2e12f012b6e2dbc1d6f52facf23e7/%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F%20%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0_0.png)
+
 ### Раздел для продавцов, поставщиков и о рекламной платформе ###
 Где-то используется *база знаний*, а где-то *справка*. У меня возник вопрос, как у пользователя, чем отличается *база знаний* от *справка*. И в базе знаний, и в справке собраны блоки с документами. У пользователей может возникнуть вопрос, в чем разница этих двух понятий. Т.е для пользователей нет разницы между базой знаний и справки, его цель — найти нужную информацию.
 
@@ -102,13 +103,19 @@
   
 If you want to view or buy again the product you bought before:
 1. Click your avatar in the lower right corner and select **Purchased** **products.**
+   
 ![01.jpg](https://github.com/dariatim/Instructions/blob/7efb59f9ebfa9cdf4a88161d3f9a89db882b2753/01.jpg)
+
 2. Select the product or use search and add it to the shopping cart.
-![02_01.jpg](https://github.com/dariatim/Instructions/blob/b2ae686284737679a08143c51dd0937d16d9884d/02_01.jpg)    
+
+![02_01.jpg](https://github.com/dariatim/Instructions/blob/b2ae686284737679a08143c51dd0937d16d9884d/02_01.jpg)  
+
 The latest product is purchased, the higher it is on the list.  
 If you want to add product bought before to favorites, click ♡ on the product card.  
-If the product is out of stock, you can search for similar ones clicking **Similar** or choose suggested similar product.  
+If the product is out of stock, you can search for similar ones clicking **Similar** or choose suggested similar product.
+
 ![04.jpg](https://github.com/dariatim/Instructions/blob/0c14b5fdeceaa10b8193245c7468079eadaeb60b/04.jpg) 
+
 You can sort products and filter them by category.  
 Sort product by:
 * new,  
